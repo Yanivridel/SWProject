@@ -1,5 +1,4 @@
-# Final Project in Software Engineering at HIT 
-![Screenshot](projectIcon.jpg){width=100 height=100}
+# Final Project in Software Engineering at HIT   [<img src="./projectIcon.jpg" width="65" height="65"/>](./projectIcon.jpg)
 
 Welcome to my final project for the Software Engineering course at HIT. This project focuses on developing an online teaching system for private and group lessons.
 
