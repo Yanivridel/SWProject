@@ -1,4 +1,4 @@
-#Final Project in Software Engineering at HIT
+# Final Project in Software Engineering at HIT
 Welcome to my final project for the Software Engineering course at HIT. This project focuses on developing an online teaching system for private and group lessons.
 
 ##Project Overview
