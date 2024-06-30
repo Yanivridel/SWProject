@@ -6,7 +6,7 @@ This project focuses on developing an online teaching system for private and gro
 ## Project Overview
 - **First Half**: Requirements document for the system.
 
-- **Second Half**: System design using UML.
+- **Second Half**: System designing using UML rules.
 
 
 ## Contributors
