@@ -11,4 +11,4 @@ Welcome to my final project for the Software Engineering course at HIT. This pro
 - [Yaniv Ridel](https://github.com/Yanivridel)
 - [Coral Shahaf](https://github.com/CoralShahaff)
 - [Tomas Shawhan](https://github.com/Tomasshahwan)
-- [Noy Atedgi]()
+- [Noy Atedgi](https://github.com/noyatedgi)
