@@ -9,6 +9,6 @@ Welcome to my final project for the Software Engineering course at HIT. This pro
 
 ## Contributors
 - [Yaniv Ridel](https://github.com/Yanivridel)
-- [Coral Shahaf]()
-- [Tomas Shawhan]()
+- [Coral Shahaf](https://github.com/CoralShahaff)
+- [Tomas Shawhan](https://github.com/Tomasshahwan)
 - [Noy Atedgi]()
